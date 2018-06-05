@@ -8,7 +8,7 @@ class Home extends Component {
     return(
       <div className="home-style">
         <img src={face} className="thumb"/>
-        "Welcome to Tim's Personal Site!"
+        <h2 className="welcome">Timothy Y. Joo </h2>
       </div>
     )
   }
