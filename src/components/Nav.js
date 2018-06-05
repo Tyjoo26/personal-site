@@ -12,8 +12,7 @@ class Nav extends Component {
   render() {
     return (
       <div className= "nav-style">
-        <h2 style={Header}> "Welcome" </h2>
-        "Navigation Bar DUH"
+        
       </div>
     )
   }
