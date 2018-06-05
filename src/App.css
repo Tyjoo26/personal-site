@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f8f8ff;
 }
 
 .App-logo {
@@ -22,6 +23,9 @@
   font-size: large;
 }
 
+.home-style{
+
+}
 .thumb {
   height:25%;
   width:25%;
@@ -29,6 +33,16 @@
   display:flex;
   margin-left: 50px;
 }
+
+.nav-style{
+  background: linear-gradient(to left, rgba(248,248,255), rgba(145	196	153));
+  height: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
