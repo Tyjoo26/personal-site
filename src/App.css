@@ -25,6 +25,9 @@
 .thumb {
   height:25%;
   width:25%;
+  border-radius:50%;
+  display:flex;
+  margin-left: 50px;
 }
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
