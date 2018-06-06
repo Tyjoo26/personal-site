@@ -4,12 +4,12 @@ import { Button} from 'reactstrap';
 import '../App.css';
 
 const link = {
-  backgroundColor: '#F16E10',
-  marginRight: '5px'
+  backgroundColor: "#38B0DE",
+  marginRight: '10px'
 }
 
 const git = {
-  backgroundColor: '#F16E10'
+  backgroundColor: '#DDA0DD	'
 }
 
 class Home extends Component {
