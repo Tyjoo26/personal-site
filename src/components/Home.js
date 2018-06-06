@@ -5,11 +5,13 @@ import '../App.css';
 
 const link = {
   backgroundColor: "#38B0DE",
-  marginRight: '10px'
+  marginRight: '10px',
+  marginLeft: "23%"
 }
 
 const git = {
-  backgroundColor: '#DDA0DD	'
+  backgroundColor: '#DDA0DD	',
+  marginLeft: "5%"
 }
 
 class Home extends Component {
