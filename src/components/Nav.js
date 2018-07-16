@@ -12,7 +12,7 @@ class Nav extends Component {
   render() {
     return (
       <div className= "nav-style">
-        <Button style={portfolio} bsStyle="primary" bSize="large">View My Portfolio</Button>
+        <Button style={portfolio} bsstyle="primary" bsize="large">View My Portfolio</Button>
       </div>
     )
   }
