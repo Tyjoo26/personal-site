@@ -66,7 +66,9 @@
 
 .button-format{
   padding-left:25%;
-  display: inline-block;
+  overflow:hidden;
+  width:auto;
+  display:inline;
 }
 
 .welcome-text-1 {
@@ -74,6 +76,10 @@
   width: 82%;
   margin-left: 4%;
 
+}
+
+.btn-primary{
+  margin-left: 10px;
 }
 
 @import url('https://fonts.googleapis.com/css?family=GFS+Didot')
